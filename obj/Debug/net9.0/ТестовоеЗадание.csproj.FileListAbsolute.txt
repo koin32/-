@@ -1,0 +1,14 @@
+C:\Users\levas\Desktop\code\C#\ТестовоеЗадание\bin\Debug\net9.0\ТестовоеЗадание.exe
+C:\Users\levas\Desktop\code\C#\ТестовоеЗадание\bin\Debug\net9.0\ТестовоеЗадание.deps.json
+C:\Users\levas\Desktop\code\C#\ТестовоеЗадание\bin\Debug\net9.0\ТестовоеЗадание.runtimeconfig.json
+C:\Users\levas\Desktop\code\C#\ТестовоеЗадание\bin\Debug\net9.0\ТестовоеЗадание.dll
+C:\Users\levas\Desktop\code\C#\ТестовоеЗадание\bin\Debug\net9.0\ТестовоеЗадание.pdb
+C:\Users\levas\Desktop\code\C#\ТестовоеЗадание\obj\Debug\net9.0\ТестовоеЗадание.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\levas\Desktop\code\C#\ТестовоеЗадание\obj\Debug\net9.0\ТестовоеЗадание.AssemblyInfoInputs.cache
+C:\Users\levas\Desktop\code\C#\ТестовоеЗадание\obj\Debug\net9.0\ТестовоеЗадание.AssemblyInfo.cs
+C:\Users\levas\Desktop\code\C#\ТестовоеЗадание\obj\Debug\net9.0\ТестовоеЗадание.csproj.CoreCompileInputs.cache
+C:\Users\levas\Desktop\code\C#\ТестовоеЗадание\obj\Debug\net9.0\ТестовоеЗадание.dll
+C:\Users\levas\Desktop\code\C#\ТестовоеЗадание\obj\Debug\net9.0\refint\ТестовоеЗадание.dll
+C:\Users\levas\Desktop\code\C#\ТестовоеЗадание\obj\Debug\net9.0\ТестовоеЗадание.pdb
+C:\Users\levas\Desktop\code\C#\ТестовоеЗадание\obj\Debug\net9.0\ТестовоеЗадание.genruntimeconfig.cache
+C:\Users\levas\Desktop\code\C#\ТестовоеЗадание\obj\Debug\net9.0\ref\ТестовоеЗадание.dll
